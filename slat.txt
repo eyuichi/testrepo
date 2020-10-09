@@ -1,0 +1,12 @@
+// uaiTool 1.17.2
+// script created by esuzuki, Mon 21/09/2020 19:45:56
+
+
+page "Page 10"
+plot "ASCB D\SFCS\SFCS1bSfcs429\sfcs1000msec429\handlePosition"
+plot "ASCB D\SFCS\SFCS1aSfcs429\sfcs100msec429\handleDetentC" "ASCB D\SFCS\SFCS1aSfcs429\sfcs100msec429\handleDetentF"
+plot "ASCB D\SFCS\SFCS1aSfcs429\sfcs100msec429\channelFault"
+plot "ASCB D\SFCS\SFCS1aSfcs429\sfcs100msec429\slatAngle"
+plot "ASCB D\SFCS\SFCS1aSfcs429\sfcs100msec429\surfacePositionFault"
+plot "ASCB D\SFCS\SFCS1aSfcs429\sfcs1000msec429\leftSlatPosition" "ASCB D\SFCS\SFCS3aSfcs429\sfcs1000msec429\leftSlatPosition" "ASCB D\SFCS\SFCS1aSfcs429\sfcs1000msec429\rightSlatPosition" "ASCB D\SFCS\SFCS3aSfcs429\sfcs1000msec429\rightSlatPosition"
+
